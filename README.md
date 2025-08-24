@@ -17,7 +17,4 @@ A browser-based action game built using **GDScript** (Godot Engine), **JavaScrip
   <img src="assets/gameHRA.gif" width="400" alt="Lo-fi anime studying" />
 </p>
 
----
 
-```markdown
-![Gameplay Demo](assets/gameplay-demo.gif)
