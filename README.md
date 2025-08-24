@@ -1,4 +1,4 @@
-# RidhwanGame 🎮
+# WarfareHRA 🎮
 
 A browser-based action game built using **GDScript** (Godot Engine), **JavaScript**, and **HTML**.
 
