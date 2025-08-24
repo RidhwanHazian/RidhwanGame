@@ -17,4 +17,9 @@ A browser-based action game built using **GDScript** (Godot Engine), **JavaScrip
   <img src="assets/gameHRA.gif" width="400" alt="Lo-fi anime studying" />
 </p>
 
+---
 
+##  Try It Yourself
+
+Play the game live via GitHub Pages:
+[▶ Play RidhwanGame](https://ridhwanhazian.github.io/RidhwanGame/)
